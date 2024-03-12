@@ -4,7 +4,9 @@
     grid-template-rows: repeat(10, 1fr); 
     gap: 10px;
     height: 100vh;
-    background-color: lined-gradient(rgb(255, 159, 159), rgb(255, 0, 0), darkred); 
+    background-image: lined-gradient(rgb(255, 159, 159), rgb(255, 0, 0), darkred);
+    background-repeat: no-repeat; 
+    background-size: cover; 
   }
 
 .parent > div {
