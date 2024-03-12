@@ -22,7 +22,7 @@
 
 #div1 {
     background-color: pink;
-    grid-column: 1/2;
+    grid-column: 1/4;
     grid-row: 1/2;
 }
 
