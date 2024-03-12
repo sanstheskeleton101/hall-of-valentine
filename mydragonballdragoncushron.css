@@ -17,9 +17,19 @@
     border: solid 3px black;
 }
 
-#logo{
+#logo {
     height:80%;
     width:80%;
+}
+
+#hollowknight {
+    height:80%;
+    width:80%;
+}
+
+#mightguy {
+    hieght:15%;
+    width:15%;
 }
 
 #div1 {
