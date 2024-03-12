@@ -16,18 +16,25 @@
 }
 
 
-#Hollowknight {}
-#mightguy {}
-#chuckecheese {}
-#hallelujah {} 
+#Hollowknight {
+    height:100%;
+    width:100%;
+}
 
+#mightguy {
+    height:100%;
+    width:100%;
+}
 
+#chuckecheese {
+    height:100%;
+    width:100%;
+}
 
-
-
-
-
-
+#hallelujah {
+    height:100%;
+    width:100%;
+} 
 
 
 #div1 {
