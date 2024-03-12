@@ -1,6 +1,6 @@
 .parent {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr; 
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
     grid-template-rows: repeat(8, 1fr); 
     gap: 10px;
     height: 100vh;
@@ -63,4 +63,34 @@
     background-color: pink;
     grid-column: 1/4;
     grid-row: 7/8;
+}
+
+#div8 {
+    background-color: pink;
+    grid-column: 1/4;
+    grid-row: 7/8;
+}
+
+#div9 {
+    background-color: pink;
+    grid-column: 1/4;
+    grid-row: 7/8;
+}
+
+#div10 {
+    background-color: pink;
+    grid-column: 1/4;
+    grid-row: 7/8;
+}
+
+#div11 {
+    background-color: pink;
+    grid-column: 1/4;
+    grid-row: 7/8;
+}
+
+#div12 {
+background-image: linear-gradient(rgb(255, 159, 159), rgb(255, 0, 0), darkred);
+background-repeat: no-repeat;
+background-size: cover; 
 }
