@@ -15,21 +15,6 @@
     border: solid 3px black;
 }
 
-#logo {
-    height:100%;
-    width:100%;
-}
-
-#hollowknight {
-    height:100%;
-    width:100%;
-}
-
-#mightguy {
-    hieght:100%;
-    width:100%;
-}
-
 #div1 {
     grid-column: 1/4;
     grid-row: 1/2;
@@ -57,9 +42,6 @@
     grid-row: 6/7;
 }
 
-
-}
-
 #div7 {
     grid-column: 2/3;
     grid-row: 7/8;
@@ -78,7 +60,7 @@
 #div10 {
     grid-column: 1/4;
     grid-row: 10/12;
-}
+} 
 
 
 
