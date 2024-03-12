@@ -1,7 +1,7 @@
 .parent {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr; 
-    grid-template-rows: repeat(10, 1fr); 
+    grid-template-rows: repeat(12, 1fr); 
     gap: 10px;
     height: 100vh;
     background-color: darkred; 
@@ -42,7 +42,7 @@
 
 #div3 {
     grid-column: 2/3;
-    grid-row: 2/7;
+    grid-row: 2/8;
 }
 
 
@@ -58,9 +58,6 @@
 }
 
 
-#div6 {
-    grid-column: 2/3;
-    grid-row: 6/7;
 }
 
 #div7 {
@@ -80,7 +77,7 @@
 
 #div10 {
     grid-column: 1/4;
-    grid-row: 8/10;
+    grid-row: 10/12;
 }
 
 
